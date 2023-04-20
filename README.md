@@ -21,4 +21,4 @@ sus
 - [ ] drink water
 - [ ] world domination
 
-:happy:
+😄
